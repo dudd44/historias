@@ -1,0 +1,83 @@
+	body {
+		background-color: #cbff96;
+	}
+
+	.chefe {
+		background-color: #ffc57a;
+
+	}
+
+	.jabuti {
+		background-color: #ff9587;
+	}
+
+	.gazela {
+		background-color: beige;
+	}
+
+	.galo {
+		background-color: #a4eb88;
+	}
+
+	.corvo {
+		background-color: #a3a3a3;
+	}
+
+	h1 {
+		text-align: center;
+		font-size: 40px;
+		color: rgb(0, 0, 0);
+
+	}
+
+	h2{
+		text-align: center;
+		color: rgb(56, 0, 0);
+	}
+
+	p {
+		line-height: normal;
+		margin: 30px;
+		text-align: center;
+		font-size: 30px;
+	}
+
+	/* BUTTON */
+
+	button {
+		display: block;
+		margin: auto;
+		font-size: 20px;
+		background-color: #a5dd65;
+		text-align: center;
+		width: 200px;
+		height: 100px;
+	}
+
+	a:hover {
+		color: rgb(0, 0, 0);
+		text-decoration: none;
+		/* Remove o sublinhado */
+	}
+
+	a {
+		text-decoration: none;
+		color: rgb(62, 73, 0);
+		/* Cor padrão dos links */
+	}
+
+	a:active {
+		color: rgb(0, 255, 0);
+	}
+
+	/* FECHA BUTTON */
+
+	img {
+		width: 600px;
+		height: 600px;
+		border-radius: 50px;
+		object-fit: cover;
+		align-items: center;
+    	margin: 0 40em;
+
+	}
