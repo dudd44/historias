@@ -62,12 +62,12 @@
 
 	a {
 		text-decoration: none;
-		color: rgb(149, 255, 135);
+		color: rgb(30, 255, 0);
 		/* Cor padrão dos links */
 	}
 
 	a:active {
-		color: rgb(149, 255, 135);
+		color: rgb(30, 255, 0);
 	}
 
 	/* FECHA BUTTON */
