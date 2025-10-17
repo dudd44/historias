@@ -92,12 +92,18 @@
 
     /* H1 DA INDEX */
 	.p1 {
-		font-size: 40px;
+		font-size: 44px;
 		color: hsl(261, 100%, 50%);
+		text-decoration: underline;
 	}
 
 	/* MORAL DAS HISTÓRIAS */
 	.moral {
 		font-weight: bold;
 		text-decoration: underline;
+	}
+
+	/* BOTÃO FIM DA PÁGINA*/
+	.botaofim {
+		background-color: black;
 	}
