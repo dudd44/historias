@@ -105,6 +105,12 @@
 
 	/* BOTÃO FIM DA PÁGINA*/
 	.botaofim1 {
+		background-color: #a0c9ff;
+		color: black;
+	}
+
+
+	.botaofim3 {
 		background-color: #e49245;
 		color: black;
 	}
