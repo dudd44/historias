@@ -51,7 +51,7 @@
 
 	/* BUTTON */
 
-	button {
+	.botaoinicial {
 		display: block;
 		margin: 10px auto;
 		font-size: 20px;
@@ -113,5 +113,5 @@
 	.botaofim3 {
 		background-color: #e49245;
 		color: black;
-	}
-	
+
+
