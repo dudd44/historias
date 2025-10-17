@@ -45,11 +45,10 @@
 	/* BUTTON */
 
 	button {
-		display: block;
-		margin: auto;
+		display: flex;
+		gap: 20;
 		font-size: 20px;
 		background-color: rgb(92, 33, 189);
-		
 		width: 200px;
 		height: 100px;
 	}
