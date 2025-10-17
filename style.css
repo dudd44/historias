@@ -53,7 +53,7 @@
 
 	button {
 		display: block;
-		margin: auto;
+		margin: 10px auto;
 		font-size: 20px;
 		background-color: rgb(92, 33, 189);
 		text-align: center;
@@ -88,8 +88,6 @@
 		object-fit: cover;
 		align-items: center;
     	margin: 0 40em;
-		background-color: black;
-
 	}
 
     /* H1 DA INDEX */
