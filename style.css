@@ -111,8 +111,14 @@
 
 
 	.botaofim3 {
+		display: block;
+		margin: 10px auto;
+		font-size: 20px;
 		background-color: #e49245;
-		color: black;
+		text-align: center;
+		width: 200px;
+		height: 100px;
+		
 	}
 
 
