@@ -69,12 +69,12 @@
 
 	a {
 		text-decoration: none;
-		color: rgb(30, 255, 0);
+		color: rgb(0, 0, 0);
 		/* Cor padrão dos links */
 	}
 
 	a:active {
-		color: rgb(30, 255, 0);
+		color: rgb(0, 0, 0);
 	}
 
 
@@ -105,8 +105,23 @@
 
 	/* BOTÃO FIM DA PÁGINA*/
 	.botaofim1 {
+		display: block;
+		margin: 10px auto;
+		font-size: 20px;
 		background-color: #a0c9ff;
-		color: black;
+		text-align: center;
+		width: 200px;
+		height: 100px;
+	}
+
+	.botaofim2 {
+		display: block;
+		margin: 10px auto;
+		font-size: 20px;
+		background-color: #fff173;
+		text-align: center;
+		width: 200px;
+		height: 100px;
 	}
 
 
@@ -119,6 +134,26 @@
 		width: 200px;
 		height: 100px;
 		
+	}
+
+	.botaofim4 {
+		display: block;
+		margin: 10px auto;
+		font-size: 20px;
+		background-color: beige;
+		text-align: center;
+		width: 200px;
+		height: 100px;
+	}
+
+	.botaofim5 {
+		display: block;
+		margin: 10px auto;
+		font-size: 20px;
+		background-color: rgb(197, 159, 120);
+		text-align: center;
+		width: 200px;
+		height: 100px;
 	}
 
 
